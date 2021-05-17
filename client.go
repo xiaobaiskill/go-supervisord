@@ -2,7 +2,6 @@ package supervisord
 
 import (
 	"errors"
-	"net"
 	"net/http"
 
 	"github.com/xiaobaiskill/xmlrpc"
